@@ -5,7 +5,7 @@ description: A line bot for outdoor snake recondition and  Injury treatment.
 img: assets/img/project/snake.png
 importance: 5
 category: fun
-giscus_comments: false
+giscus_comments: true
 ---
 
 ## Objective
