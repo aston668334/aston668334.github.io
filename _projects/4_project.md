@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 4
+title: nodepay socks
 description: another without an image
 img:
 importance: 3

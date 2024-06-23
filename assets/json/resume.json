@@ -4,7 +4,6 @@
     "label": "Software Engineer",
     "image": "my_photo.jpg",
     "email": "astonlee6403@gmail.com",
-    // "phone": "(912) 123-4567",
     "url": "https://aston668334.github.io/",
     "summary": "Dedicated software engineer with expertise in web development, blockchain, and bioinformatics. Passionate about learning, interdisciplinary challenges, and innovative software solutions.",
     "location": {
@@ -14,14 +13,6 @@
       "countryCode": "TW",
       "region": "Yunlin County"
     }
-    // ,
-    // "profiles": [
-    //   {
-    //     "network": "Twitter",
-    //     "username": "AlbertEinstein",
-    //     "url": "https://twitter.com/AlbertEinstein"
-    //   }
-    // ]
   },
   "work": [
     {
@@ -34,133 +25,99 @@
       "highlights": ["API","HIS"]
     },
     {
-      "name": "攻誠投創有限公司(Advertising Company",
+      "name": "攻誠投創有限公司(Advertising Company)",
       "position": "Web3 Developer",
       "startDate": "2022-07-01",
       "endDate": "2023-08-01",
       "summary": "Developed and maintained blockchain applications, designed user-friendly web interfaces, and enhanced system functionalities through API development and integration at 攻誠投創有限公司.",
       "highlights": ["WEB 3.0", "FRONTEND", "BACKEND"]
+    },
+    {
+      "name": "National Taiwan University",
+      "position": "Research Assistant",
+      "startDate": "2018-01-01",
+      "endDate": "2021-07-01",
+      "summary": "Conducted zebrafish behavioral studies, performed data analysis with Python and OCTAVE, and conducted genome-wide association studies (GWAS) using Python and Plink at NTU.",
+      "highlights": ["Python","GWAS"]
     }
   ],
-  // "volunteer": [
-  //   {
-  //     "organization": "People's Climate March",
-  //     "location": "Zurich, Switzerland",
-  //     "position": "Lead Organizer",
-  //     "url": "https://example.com",
-  //     "startDate": "2014-04-01",
-  //     "endDate": "2015-07-01",
-  //     "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-  //     "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-  //   }
-  // ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
+      "institution": "National Taiwan University",
+      "location": "Taipei, Taiwan",
+      "url": "https://www.ntu.edu.tw/",
+      "area": "Graduate Institute of Biomedical Electronics and Bioinformatics",
+      "studyType": "Master",
+      "startDate": "2021-09-01",
+      "endDate": "2023-07-01",
+      "courses": ["Genome-wide Association Study of Hypertension in Taiwanese Population"]
+    },
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "institution": "National Taiwan University",
+      "location": "Taipei, Taiwan",
+      "url": "https://www.ntu.edu.tw/",
+      "area": "Agricultural chemistry",
+      "studyType": "Bachelor",
+      "startDate": "2017-09-01",
+      "endDate": "2021-07-01"
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Participated in an information security series organized by NTU's Computing Center",
+      "date": "2023-12-01",
+      "issuer": "National Taiwan University"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Participated in an information security series organized by NTU's Computing Center",
+      "date": "2023-05-01",
+      "issuer": "National Taiwan University"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Genome-wide Association Study of Hypertension in Taiwanese Population",
+      "publisher": "National Taiwan University",
+      "releaseDate": "2023-08-30",
+      "summary": "Conducted a comprehensive genome-wide association analysis to identify novel genetic loci associated with hypertension in the Taiwanese population. Utilized Axiom Genome-Wide Array Chip, analyzed 4,512,191 SNPs, identified 1,033 significant SNPs including 14 risk loci, and performed gene- based association analysis using MAGMA and MetaXcan tools to uncover significant genes associated with hypertension."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "Java",
+        "PHP"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "MySQL",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "TensorFlow",
+        "Keras",
+        "PyTorch",
+        "ELK Stack",
+        "Git"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Mandarin",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -172,38 +129,44 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Software",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Backend",
+        "Frontend",
+        "Blockchain",
+        "Bioinfomatics",
+        "IT",
+        "Software"
       ]
     }
   ],
   "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "HIS-ELK",
+      "summary": "Implemented ELK stack for real-time monitoring of HIS systems.",
+      "highlights": ["HIS", "ELK stack"],
+      "startDate": "2023-11-01",
+      "endDate": "2024-07-01",
+      "url": "https://github.com/aston668334/HIS-ELK"
+    },
+    {
+      "name": "HL7 FHIR (Fast Healthcare Interoperability Resources) Electronic Medical Record Information",
+      "summary": "Improve the sharing and application scenarios of electronic medical records using HL7 FHIR (Fast Healthcare Interoperability Resources)",
+      "highlights": ["HLI7", "HIS"],
+      "startDate": "2023-11-01",
+      "endDate": "2024-07-01",
+      "url": "https://www.icdf.org.tw/wSite/ct?xItem=71537&ctNode=31296&mp=1"
+    },
+    {
+      "name": "SNAKE",
+      "summary": "Offer emergency response solutions for snake bites.",
+      "highlights": ["Line Bot", "ML/DL"],
+      "startDate": "2021-04-01",
+      "endDate": "2021-04-03",
+      "url": "https://github.com/aston668334/Snake"
     }
   ]
 }
