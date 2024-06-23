@@ -22,7 +22,7 @@
       "startDate": "2023-11-01",
       "endDate": "2024-07-04",
       "summary": "Improved HIS and HAPI FHIR synchronization speed, enhancing system efficiency and data interoperability, crucial for advancing TaiwanICDF's global health initiatives.",
-      "highlights": ["API","HIS"]
+      "highlights": ["API", "HIS"]
     },
     {
       "name": "攻誠投創有限公司(Advertising Company)",
@@ -38,7 +38,7 @@
       "startDate": "2018-01-01",
       "endDate": "2021-07-01",
       "summary": "Conducted zebrafish behavioral studies, performed data analysis with Python and OCTAVE, and conducted genome-wide association studies (GWAS) using Python and Plink at NTU.",
-      "highlights": ["Python","GWAS"]
+      "highlights": ["Python", "GWAS"]
     }
   ],
   "education": [
@@ -87,32 +87,19 @@
       "name": "Programming Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "Java",
-        "PHP"
-      ]
+      "keywords": ["Python", "Java", "PHP"]
     },
     {
       "name": "Databases",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "MySQL",
-        "PostgreSQL"
-      ]
+      "keywords": ["MySQL", "PostgreSQL"]
     },
     {
       "name": "Tools",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "TensorFlow",
-        "Keras",
-        "PyTorch",
-        "ELK Stack",
-        "Git"
-      ]
+      "keywords": ["TensorFlow", "Keras", "PyTorch", "ELK Stack", "Git"]
     }
   ],
   "languages": [
@@ -131,18 +118,10 @@
     {
       "name": "Software",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Backend",
-        "Frontend",
-        "Blockchain",
-        "Bioinfomatics",
-        "IT",
-        "Software"
-      ]
+      "keywords": ["Backend", "Frontend", "Blockchain", "Bioinfomatics", "IT", "Software"]
     }
   ],
-  "references": [
-  ],
+  "references": [],
   "projects": [
     {
       "name": "HIS-ELK",
