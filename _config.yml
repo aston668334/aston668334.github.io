@@ -255,7 +255,7 @@ keep_files:
 # Plug-ins
 plugins:
   - jekyll-archives
-  - jekyll-eig-protect
+  - jekyll-email-protect
   - jekyll-feed
   - jekyll-get-json
   - jekyll-imagemagick
