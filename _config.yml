@@ -160,7 +160,7 @@ giscus:
   lang: zh-TW
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: Aston # put your disqus shortname
+disqus_shortname: Website # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
