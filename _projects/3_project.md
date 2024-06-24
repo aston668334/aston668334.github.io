@@ -6,6 +6,7 @@ img: assets/img/project/grass.gif
 # redirect: https://unsplash.com
 importance: 3
 category: fun
+giscus_comments: true
 ---
 
 ## Theory

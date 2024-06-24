@@ -6,6 +6,7 @@ img: assets/img/project/HIS.jpg
 importance: 1
 category: work
 related_publications: false
+giscus_comments: true
 ---
 
 ## Table of Contents

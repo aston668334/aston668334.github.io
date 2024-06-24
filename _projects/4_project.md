@@ -5,6 +5,7 @@ description: Automated mining for Nodepay.
 img: assets/img/project/nodepay.png
 importance: 3
 category: fun
+giscus_comments: true
 ---
 
 ## Theory

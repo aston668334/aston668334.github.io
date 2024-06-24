@@ -6,6 +6,7 @@ img: assets/img/project/HIS.jpg
 importance: 1
 category: work
 related_publications: false
+giscus_comments: true
 ---
 
 The HIS-ELK project is designed to automatically monitor Hospital Information System (HIS) services and server statuses. By integrating the ELK (Elasticsearch, Logstash, Kibana) stack, this system streamlines data retrieval and visualization, facilitating efficient monitoring and analysis of HIS performance and issues.
