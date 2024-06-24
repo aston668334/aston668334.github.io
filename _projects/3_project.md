@@ -5,7 +5,7 @@ description: Automated mining for Grass.
 img: assets/img/project/grass.gif
 # redirect: https://unsplash.com
 importance: 3
-category: fun
+category: blockchain
 giscus_comments: true
 ---
 

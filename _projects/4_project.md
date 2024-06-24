@@ -4,7 +4,7 @@ title: nodepay socks
 description: Automated mining for Nodepay.
 img: assets/img/project/nodepay.png
 importance: 3
-category: fun
+category: blockchain
 giscus_comments: true
 ---
 
