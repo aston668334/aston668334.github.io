@@ -14,7 +14,7 @@ Offer emergency response solutions for snake bites.
 
 ## Table of Contents
 
-- [ELK Objective](oObjective)
+- [Objective](#objective)
 - [Solution](#solution)
 - [Methods](#methods)
 - [Results](#results)
