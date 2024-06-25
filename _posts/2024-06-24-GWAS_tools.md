@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Manhattan 做圖
+title: GWAS 常用套件
 date: 2024-06-24 17:00:00
-description: 簡單製作Manhattan圖
-tags: Bioinformatic GWAS Manhattan-plot
+description: 介紹各種GWAS常用套件
+tags: Bioinformatic GWAS tools
 categories: posts
 code_diff: true
 giscus_comments: true
@@ -41,51 +41,3 @@ giscus_comments: true
 ![Manhattan Plot](/assets/img/blog/gwas-genome-wide-association-study_683773-52.avif)
 
 _圖 1：典型的曼哈頓圖展示_
-
-## 使用示例
-
-### 使用 qqman 繪製曼哈頓圖
-
-```r
-# 安裝和加載 qqman 套件
-install.packages("qqman")
-library(qqman)
-
-# 構建示例數據
-set.seed(1234)
-data <- data.frame(
-  SNP = paste0("rs", 1:1000),
-  CHR = rep(1:22, each = 50),
-  BP = rep(1:50, times = 22),
-  P = runif(1000, 0, 1)
-)
-
-# 繪製曼哈頓圖
-manhattan(data)
-```
-
-### 使用 qmplot 繪製曼哈頓圖
-
-```bash
-# 安裝和加載 qmplot 套件
-pip install qmplot
-```
-
-```python
-import qmplot
-
-# 構建示例數據
-import pandas as pd
-import numpy as np
-
-np.random.seed(1234)
-data = pd.DataFrame({
-    'SNP': ['rs'+str(i) for i in range(1, 1001)],
-    'CHR': np.repeat(np.arange(1, 23), 50),
-    'BP': np.tile(np.arange(1, 51), 22),
-    'P': np.random.uniform(0, 1, 1000)
-})
-
-# 繪製曼哈頓圖
-qmplot.manhattanplot(data, chr='CHR', bp='BP', p='P')
-```
