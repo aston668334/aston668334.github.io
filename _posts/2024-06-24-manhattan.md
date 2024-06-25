@@ -3,8 +3,8 @@ layout: post
 title: Manhattan 做圖
 date: 2024-06-24 17:00:00
 description: 簡單製作Manhattan圖
-tags: Bioinformatic
-categories: sample-posts
+tags: Bioinformatic GWAS Manhattan-plot
+categories: posts
 code_diff: true
 giscus_comments: true
 ---
