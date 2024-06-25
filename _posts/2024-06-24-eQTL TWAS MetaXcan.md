@@ -2,7 +2,7 @@
 layout: post
 title: eQTL TWAS MetaXcan
 date: 2024-06-24 17:00:00
-description:
+description: eQTL TWAS MetaXcan 簡介
 tags: Bioinformatic
 categories: sample-posts
 code_diff: true
